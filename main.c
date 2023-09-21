@@ -1,6 +1,5 @@
 #include "monty.h"
 
-vars var;
 
 /**
  * main - Start LIFO, FILO program
